@@ -1,5 +1,7 @@
 # Segway
 Self-Balancing-Upside-Down-Pendulum
+de Joshua Loayza Michel y Stefani Lopez Jimenez
+
 
 Componentes:
 MPU6050
